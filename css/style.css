@@ -1,0 +1,23 @@
+.main-pic{
+  float: left;
+  width: 300px;
+  height: 100px;
+}
+
+.first-par-pic-column{
+  float: left;
+  width: 50%
+}
+
+.sidebar{
+  background-color: green;
+  float: right;
+
+
+}
+
+.second-par-sidebar-column{
+  float: right;
+  width: 50%;
+
+}
